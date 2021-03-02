@@ -5,7 +5,7 @@ The point of this code is to give you a sense of how secure a 256 bit security i
 #### Recon
 
 1. `node gather-stellar.js` Scanning blockchain (XLM, stellar) for recent transactions
-2. Checking public addresses of transactions and save the once that have a positive balance
+2. Checking public addresses of transactions and save the ones that have a positive balance in `tokens-stellar.json`
 3. Start over
 
 #### Attack
