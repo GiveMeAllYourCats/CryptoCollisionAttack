@@ -16,6 +16,8 @@ The point of this code is to give you a sense of how secure a 256 bit security i
 4. Randomly get upset with how the world is
 5. Existential crisis
 
+[![How secure is 256 bit security?](https://img.youtube.com/vi/S9JGmA5_unY/0.jpg)](https://www.youtube.com/watch?v=S9JGmA5_unY)
+
 
 ```bash
 master ❯ node index.js
