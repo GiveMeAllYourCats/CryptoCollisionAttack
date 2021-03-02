@@ -17,7 +17,7 @@ The point of this code is to give you a sense of how secure a 256 bit security i
 5. Existential crisis
 
 
-```bash
+```
 master ❯ node index.js
 Welcome to the lottery, good luck :)
 Creating wallets and checking if created public key is either one of the 946 public addresses in 8 parallel processes
